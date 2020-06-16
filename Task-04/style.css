@@ -1,0 +1,11 @@
+button {
+    width: 60px;
+    background-color: skyblue;
+    cursor: pointer;
+}
+
+input {
+    width: auto;
+    height: 20px;
+    border: 1px solid black;
+}
